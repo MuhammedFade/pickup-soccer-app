@@ -8,10 +8,10 @@
 		<version>4.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>muhammedfadel</groupId>
+	<artifactId>pickup-soccer-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>pickup-soccer-api</name>
 	<description/>
 	<url/>
 	<licenses>
